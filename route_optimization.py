@@ -1,14 +1,3 @@
-"""
-Route Optimization Using Machine Learning Algorithms
-Author: B Pavaneshwar
-Date: June 2025
-
-Description:
-This project optimizes travel routes by predicting travel times using historical 
-traffic data and Machine Learning (Random Forest). It then calculates the optimal 
-path using graph-based shortest path algorithms.
-"""
-
 import numpy as np
 import pandas as pd
 import networkx as nx
